@@ -65,7 +65,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- https://cuauh-cabrera.github.io/m
+- https://cuauh-cabrera.github.io/nutrition-label/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
