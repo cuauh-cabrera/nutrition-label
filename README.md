@@ -58,7 +58,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Mobile First]**
+- **[]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
